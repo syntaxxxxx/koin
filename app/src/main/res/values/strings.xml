@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie DB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="overview">overview</string>
+    <string name="username">Hello, %1$s !</string>
+    <string name="cast">cast</string>
+    <string name="format_runtime">%1$d m</string>
+</resources>
